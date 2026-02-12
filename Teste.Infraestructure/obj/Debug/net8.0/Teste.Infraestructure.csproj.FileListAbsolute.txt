@@ -1,0 +1,15 @@
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Infraestructure\bin\Debug\net8.0\Teste.Infraestructure.deps.json
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Infraestructure\bin\Debug\net8.0\Teste.Infraestructure.dll
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Infraestructure\bin\Debug\net8.0\Teste.Infraestructure.pdb
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Infraestructure\bin\Debug\net8.0\Teste.Domain.dll
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Infraestructure\bin\Debug\net8.0\Teste.Domain.pdb
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Infraestructure\obj\Debug\net8.0\Teste.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Infraestructure\obj\Debug\net8.0\Teste.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Infraestructure\obj\Debug\net8.0\Teste.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Infraestructure\obj\Debug\net8.0\Teste.Infraestructure.AssemblyInfo.cs
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Infraestructure\obj\Debug\net8.0\Teste.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Infraestructure\obj\Debug\net8.0\Teste.In.EC8B8859.Up2Date
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Infraestructure\obj\Debug\net8.0\Teste.Infraestructure.dll
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Infraestructure\obj\Debug\net8.0\refint\Teste.Infraestructure.dll
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Infraestructure\obj\Debug\net8.0\Teste.Infraestructure.pdb
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Infraestructure\obj\Debug\net8.0\ref\Teste.Infraestructure.dll

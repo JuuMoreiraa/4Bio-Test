@@ -1,0 +1,15 @@
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Application\bin\Debug\net8.0\Teste.Application.deps.json
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Application\bin\Debug\net8.0\Teste.Application.dll
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Application\bin\Debug\net8.0\Teste.Application.pdb
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Application\bin\Debug\net8.0\Teste.Domain.dll
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Application\bin\Debug\net8.0\Teste.Domain.pdb
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Application\obj\Debug\net8.0\Teste.Application.csproj.AssemblyReference.cache
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Application\obj\Debug\net8.0\Teste.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Application\obj\Debug\net8.0\Teste.Application.AssemblyInfoInputs.cache
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Application\obj\Debug\net8.0\Teste.Application.AssemblyInfo.cs
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Application\obj\Debug\net8.0\Teste.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Application\obj\Debug\net8.0\Teste.Ap.A4B6760C.Up2Date
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Application\obj\Debug\net8.0\Teste.Application.dll
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Application\obj\Debug\net8.0\refint\Teste.Application.dll
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Application\obj\Debug\net8.0\Teste.Application.pdb
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Application\obj\Debug\net8.0\ref\Teste.Application.dll

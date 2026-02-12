@@ -1,0 +1,12 @@
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Domain\bin\Debug\net8.0\Teste.Domain.deps.json
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Domain\bin\Debug\net8.0\Teste.Domain.dll
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Domain\bin\Debug\net8.0\Teste.Domain.pdb
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Domain\obj\Debug\net8.0\Teste.Domain.csproj.AssemblyReference.cache
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Domain\obj\Debug\net8.0\Teste.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Domain\obj\Debug\net8.0\Teste.Domain.AssemblyInfoInputs.cache
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Domain\obj\Debug\net8.0\Teste.Domain.AssemblyInfo.cs
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Domain\obj\Debug\net8.0\Teste.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Domain\obj\Debug\net8.0\Teste.Domain.dll
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Domain\obj\Debug\net8.0\refint\Teste.Domain.dll
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Domain\obj\Debug\net8.0\Teste.Domain.pdb
+C:\Users\Jujubas\source\repos\TesteCore\Teste.Domain\obj\Debug\net8.0\ref\Teste.Domain.dll
